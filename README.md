@@ -13,12 +13,12 @@ A simple yet interactive web app built with **Streamlit** that converts distance
 
 ## 📸 Demo
 
-![Demo Screenshot](https://user-images.githubusercontent.com/your_screenshot.png)
+![Demo Screenshot](https://github.com/roshan6192/Distance-Converter/blob/main/ds.PNG)
 
 ## 🚀 Getting Started
 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/distance-converter-streamlit.git
+git clone https://github.com/roshan6192/Distance-Converter.git
 cd distance-converter-streamlit
